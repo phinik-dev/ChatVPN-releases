@@ -1,0 +1,22 @@
+Package: chatvpn
+Architecture: arm64
+Version: 2.8.1
+Priority: optional
+Section: net
+Maintainer: ChatVPN <support@chatvpn.net>
+Bugs: https://chatvpn.net/support
+Installed-Size: 59459
+Depends: libc6
+Recommends: policykit-1
+Filename: pool/main/c/chatvpn/chatvpn_2.8.1_arm64.deb
+Size: 23325084
+MD5sum: 67d386e5905f6ef008778be264efd838
+SHA1: 0bacf2ab7fe3eafedbfd560109ae5728b168fd49
+SHA256: 4c3713846be9d5f41b0f248b4749fe223a2c2d44dc13c7d84363fcb601811181
+SHA512: 4b7b9103a9b061bc5b88f3dc24385523dbcfd473088d5a704d511e69a89f304748fa42ea13f79717bc725cd4bc14eb3b5eb8d0c6fe1d4d317e2068cb1027a167
+Homepage: https://chatvpn.net/
+Description: ChatVPN is a cross-platform VPN client.
+ Provides a privileged backend service that manages WireGuard/AmneziaWG
+ tunnels and an unprivileged GUI client that talks to it over local gRPC.
+License: Proprietary
+

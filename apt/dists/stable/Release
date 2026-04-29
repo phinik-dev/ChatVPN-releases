@@ -1,0 +1,32 @@
+Architectures: amd64 arm64
+Codename: stable
+Components: main
+Date: Wed, 29 Apr 2026 20:22:38 +0000
+Description: ChatVPN VPN client repository
+Label: ChatVPN
+Origin: ChatVPN
+Suite: stable
+MD5Sum:
+ 40ea92fbc378249ec23cdc2661b88ceb              187 Release
+ ef8ddff8afb2fad8f087c81dd088999b              840 main/binary-amd64/Packages
+ 6adca38846854f41d846db2380268853              582 main/binary-amd64/Packages.gz
+ 32d0b47e309a95c7ef857efa0941a576              840 main/binary-arm64/Packages
+ 1f20ceb82f191401be89649a9df2578e              583 main/binary-arm64/Packages.gz
+SHA1:
+ cb90aca9f82049217f6ebf6e0e7c212bbbb6fd04              187 Release
+ 8d466885353f1df538ae05ce26b86fcd468d323d              840 main/binary-amd64/Packages
+ 46d06cc3e9945bc179a152bb1c6c306f8888fe1d              582 main/binary-amd64/Packages.gz
+ c3fe1eef6bd911818a470bfc1781f1ed47080b07              840 main/binary-arm64/Packages
+ 3b3527952f5c6219017da7c1479cebb942e3c751              583 main/binary-arm64/Packages.gz
+SHA256:
+ 8463d2eda2417ddb27d60f27486dccd2cf19a01f4de125bc6e39e908ac5147d3              187 Release
+ 649aba319fb34b1926afa513fa1a9d37e79ef3f529fe0c5d804db3f20673878a              840 main/binary-amd64/Packages
+ 641fe28609b5978048c23ae6ba8a4fdf4b33389be1523ed2944efa6074a7813f              582 main/binary-amd64/Packages.gz
+ d582aed06d67a778ed701d96c652f9bcc3a8417ebfb09a54407c259699bd49b5              840 main/binary-arm64/Packages
+ 680193c3a6bb7fa001866719518604ca1b77d44ca308ea2782d516eaa65d46ce              583 main/binary-arm64/Packages.gz
+SHA512:
+ 1cf96dd5b87547b63dd2d67577a1c48fa6615e0f39b9b6a4c4fcf92b184fa2ed2c0b64af450a811bffd32fb0d147a45dc49dfb0f8bac5dbc60c7c8bd23b52484              187 Release
+ 4d2beb0882d592d3b146ee4ba42eab63e310cf2c55e972cee1d086af8f6450c1750c11ea7f28d3995680771d1dabef8d6ba6f26c73c6d53d9927d2504257e8bd              840 main/binary-amd64/Packages
+ 5b2374ec84bf8f4f16d282d1a3bd72dd0daf49e1801d247c468b261e31930e1c5abf4855a7d7a66bb7f95c18a31cdcc6b7401e39168fc7bf0c8265260cd1ad70              582 main/binary-amd64/Packages.gz
+ b353645a007ae353907a31a8a9eb32a276498a7b71b9dcfc567f36206e4c036bdba159ed7765b74bbc2fc61d54f3d0d61297fb75d3a528e0935faf20e2931144              840 main/binary-arm64/Packages
+ 4cfa1f3eeb2a1888adbe4faa4c4465f19dc4bb1e69b8886963802029341daa4a977fa7fbaebabddf55727abc2d0df1080bd28e760a062dd36ee09cc2f1abb183              583 main/binary-arm64/Packages.gz

@@ -1,0 +1,8 @@
+[chatvpn]
+name=ChatVPN VPN client
+baseurl=https://phinik-dev.github.io/ChatVPN-releases/rpm/$basearch/
+enabled=1
+gpgcheck=1
+repo_gpgcheck=1
+gpgkey=https://phinik-dev.github.io/ChatVPN-releases/chatvpn.gpg
+metadata_expire=1h
