@@ -20,3 +20,25 @@ Description: ChatVPN is a cross-platform VPN client.
  tunnels and an unprivileged GUI client that talks to it over local gRPC.
 License: Proprietary
 
+Package: chatvpn
+Architecture: amd64
+Version: 2.8.2
+Priority: optional
+Section: net
+Maintainer: ChatVPN <support@chatvpn.net>
+Bugs: https://chatvpn.net/support
+Installed-Size: 62791
+Depends: libc6
+Recommends: policykit-1
+Filename: pool/main/c/chatvpn/chatvpn_2.8.2_amd64.deb
+Size: 25008130
+MD5sum: 6a5574595a9d8050f6ee9d866a38f983
+SHA1: 04ea86d87f0865ccd7bf2a3c1245916be2b9e313
+SHA256: 48f6bc78146f032f5bfb1e0423ad6bb0b74376b57a7b856d7d576c4b637626dc
+SHA512: 57cd015b1efd59768bb2b3792715f27790d28eeb30fc93451e90a441076c8dda231dded82816c322eabc67adcc4e17d0f373c7900e6e3e785eceeaddbee289a2
+Homepage: https://chatvpn.net/
+Description: ChatVPN is a cross-platform VPN client.
+ Provides a privileged backend service that manages WireGuard/AmneziaWG
+ tunnels and an unprivileged GUI client that talks to it over local gRPC.
+License: Proprietary
+
